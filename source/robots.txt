@@ -1,3 +1,4 @@
 # robotstxt.org/
 
 User-agent: *
+Sitemap: http://florian.perucki.fr/sitemap.xml  
